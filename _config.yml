@@ -29,18 +29,18 @@ github_username:  Arnabds
 # facebook_username: jekyll
 # flickr_username: jekyll
 instagram_username: pen_and_perfume
-linkedin_username: Arnab Dey Sarkar
+linkedin_username: arnab-dey-sarkar
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: 
+youtube_username: deysarkararnab8934
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: personal website
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: https://https://sites.google.com/view/arnabdeysarkar/home?authuser=0
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -55,10 +55,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  I'm Arnab, a math grad student at the University of Pittsburgh, researching computational neuroscience with Dr. Bard Ermentrout. I specialized in pure mathematics during my MSc at IISER Bhopal, focusing on Algebra and Number Theory. 
+  Currently, I'm diving into data science and machine learning at CMU with Dr. Robert Kass. With experience teaching at several institutions, I've honed my teamwork and leadership skills. 
+  I pride myself on patiently <mark>teaching calculus</mark> to students and <mark>expertly deboning Bengali fish</mark> dishes.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
