@@ -217,7 +217,7 @@ content:
   - title: Graduate Coursework
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my research interests, some of my other interests and hobbies are:
+      Some selected graduate level courses from my coursework:
       - Overview of Statistical Learning and Modeling, CMU, Grade A
       - Data Science in Python, UPitt, Grade A+
       - Applied Data-Driven Methods, UPitt, Grade A+
