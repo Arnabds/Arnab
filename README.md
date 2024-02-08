@@ -45,8 +45,6 @@ We are dealing with the population model and spiking model which are related by 
 ![thetamodel](/assets/img/.jpeg)
 
 
-# Data Scientist
-
 #### Technical Skills: Python, Latex, XPPAUT, SQL, Markdown, MATLAB, Microsoft Office
 
 ## Graduate Coursework
