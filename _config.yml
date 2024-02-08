@@ -13,13 +13,13 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Arnab Dey Sarkar
-title: Graduate student at University of Pittsburgh
-email: arnabdeysarkar05@gmail.com
+name: Brett Harris
+title: Senior Network System Administrator
+email: brett.h@email.co.uk
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: True
+darkmode: false
 
 # Social links
 twitter_username: facespics
