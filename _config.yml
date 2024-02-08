@@ -146,22 +146,35 @@ content:
         title: University of Pittsburgh
         caption: Sep 2020--Apr 2025(exp)(GPA: 3.9 out of 4)
         sub_title: PhD, Mathematics
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Founded by Hugh Henry Brackenridge as Pittsburgh Academy in 1787, the University of Pittsburgh is one of the few universities and colleges established in the 18th century in the United States. It is the oldest continuously chartered institution 
+          of learning in the U.S. west of the Allegheny Mountains. Now the 132-acre Pittsburgh campus includes various historic buildings that are part of the Schenley Farms Historic District, most notably its 42-story Gothic revival centerpiece, the Cathedral of Learning. 
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-          I have studied pure math in these time duration focusing on algebra and analysis. I got really interested on numbers. All of my reading projects were on algebraic and analytic number theory, modular forms and elliptic curves. I met some really
-          good teachers who were pure mathematicians.
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I have shifted my interest to applied math and started working on computational neuroscience as I wanted to contribute to a real-world problem. I have neurological diseases in my family which gave me the motivation to choose this path.
+          
+          I spent a lot of my free time as a committee member of administrative clubs like Graduate student organizations and Graduate and Professional Student Government taking on roles such as GPSG representative, chair of diversity board, and Summer research funding committee.
       - layout: left
         title: Indian Institute of Science Education and Research Bhopal
-        caption: May 2018 (GPA: 3.9 out of 4)
+        caption: May 2018 (GPA: 9.32 out of 10)
         sub_title: M.Sc, Mathematics
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+              Indian Institutes of Science Education and Research (IISERs) were created in 2006 through a proclamation of the Ministry of Human Resource Development, Government of India, under the category of institutes of national importance, to promote quality education and research 
+              in basic sciences. Soon after the announcement, two of these institutes at Pune and Kolkata, respectively, were started in 2006. This was followed by institutes at Mohali (2007), Bhopal and Thiruvananthapuram (2008), Tirupati (2015) and Berhampur (2016). Each IISER is a degree granting autonomous institution with a prime focus to integrate science, education and research.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          I have studied pure math while focusing on algebra and analysis. I got interested in numbers. All of my reading projects were on algebraic and analytic number theory, modular forms and elliptic curves. I met some really
+          good teachers who were pure mathematicians.
+          
+          I spent a lot of my free time as a social worker teaching village kids in a nearby villa named Bhauri.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+          
+  - title: Conference talks # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: BYMAT: Madrid; Spain
+        caption: Summer 2019
+         description: | # this will include new lines to allow paragraphs
+          Presented paper in Arithmetic Dynamics funded by BYMAT. Visited Alfréd Rényi Institute of Mathematics; Budapest
+          
+     
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
