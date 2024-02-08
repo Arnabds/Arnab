@@ -63,20 +63,54 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Can median house value be predicted based on population characteristics?
+        link: https://www.stat.cmu.edu/capstoneresearch/fall2022/600files/poster4.pdf
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  Arnabds/CMU36600-Overview-of-Statistical-Learning-and-Modeling
             icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            url: https://github.com/Arnabds/CMU36600-Overview-of-Statistical-Learning-and-Modeling
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          It was my first project and many data science staff went over my head but I started getting interested.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          It was a poster presentation in a group and it was my first applied project. I did the data cleaning and visualization using tidyverse, Dplyr, and GGPlot hist and Corrplot. We tried to visualize the data to get an idea of how the cost of a house(dependent variable) depends on other factors e.g. 
+          no of bedrooms, the population of the area, vacant units, etc. Motivated from here, I am trying to write a project on California house prices with some predictive modeling.
+      - layout: top-middle
+        title: Predictive Maintenance
+        link: https://github.com/Arnabds/FPoliSolutions-Predictive-Maintenance
+        # link_text: Project Website
+        additional_links:
+          - title:  Arnabds/FPoliSolutions-Predictive-Maintenance
+            icon: fab fa-github
+            url: https://github.com/Arnabds/FPoliSolutions-Predictive-Maintenance
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          I was really satisfied when I executed this single-handedly (although I used my both hand!)
+        description: | # this will include new lines to allow paragraphs
+          This project was all about predicting when a machine is going to <mark>fail</mark> from the variable inputs. The main model we used here is logistic regression and we performed SVC at the end. In the general file I have given general introduction, performed EDA, cluster analysis, introduced different 
+          models, analyzed their performance, and made predictions then as a Bonus we touched SVC and Neural Networks briefly.
+      - layout: top-middle
+        title: Change in neuronal waves with synaptic input of excitatory, inhibitory neurons and somatostatin
+        link: 
+        # link_text: Project Website
+        additional_links:
+          - title: 
+            icon: fab fa-github
+            url: 
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          My ongoing Ph.D. research project
+        description: | # this will include new lines to allow paragraphs
+          We are dealing with the population model and spiking model which are related by theta transformation and that is why the model is called by the name as theta model. We have shown the transformation calculation in particular. Then we wanted to find out a particular impulse through which we can jump between 
+          higher and lower oscillations. The challenge was that we were dealing with a large population of neurons and that is why we had to start with the case study and bifurcation diagram. We got some ideas and I managed to find good parameters so that the neurons behave as we wanted in 9D then we extended the 
+          case to the population of neurons and the system responded correctly. Now we were trying to summarise the result.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
