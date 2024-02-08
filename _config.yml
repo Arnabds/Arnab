@@ -173,7 +173,11 @@ content:
       - National Board of Higher Mathematics, MSc scholarship, Awarded 72k inr.
       - National Eligibility Test (AI rank 83), MSc was supported by CSIR with 25k inr per month.
       - Awarded Pi Mu Epsilon, National Honorary Mathematics Society.
-      - GSR by UPitt, Was funded by my advisor after clearing my comprehensive exam in my Ph.D.         
+      - GSR by UPitt, Was funded by my advisor after clearing my comprehensive exam in my Ph.D.   
+
+  - title: Technical Skills
+    description: Python, SQL, MATLAB, Latex, XPPAUT
+
      
   - title: A Little More About Me
     layout: text
