@@ -178,7 +178,12 @@ content:
   - title: Technical Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Python, Latex, XPPAUT, SQL, Markdown, MATLAB, Microsoft Office
+      - Python
+      - R(learning)
+      - XPPAUT
+      - SQL(learning)
+      - MATLAB(learning)
+      - Others Latex, Markdown, Microsoft Office
 
   - title: Languages
     layout: text
