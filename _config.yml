@@ -120,7 +120,7 @@ content:
         link: https://www.mathematics.pitt.edu/people/ant-41
         # link_text: boringcompany.com
         sub_title: Graduate Student researcher
-        caption: Sep 2020 -- Present(exp 2025 April)
+        caption: Sep 2020 - Present(exp 2025 April)
         quote: >
           Taught undergraduate and graduate students with great care.
         description: | # this will include new lines to allow paragraphs
@@ -132,7 +132,7 @@ content:
         title: Teacher at Cheenta Ganit Kendra
         # link_text: boringcompany.com
         sub_title: Teacher
-        caption: May 2017 -- Aug 2018
+        caption: May 2017 - Aug 2018
         quote: >
           At least my pure math skills got used a bit.
         description: | # this will include new lines to allow paragraphs
@@ -144,7 +144,7 @@ content:
     content:
       - layout: left
         title: University of Pittsburgh
-        caption: Sep 2020--Apr 2025(exp)(GPA: 3.9 out of 4)
+        caption: Sep 2020 - Apr 2025(exp)(GPA: 3.9 out of 4)
         sub_title: PhD, Mathematics
           Founded by Hugh Henry Brackenridge as Pittsburgh Academy in 1787, the University of Pittsburgh is one of the few universities and colleges established in the 18th century in the United States. It is the oldest continuously chartered institution 
           of learning in the U.S. west of the Allegheny Mountains. Now the 132-acre Pittsburgh campus includes various historic buildings that are part of the Schenley Farms Historic District, most notably its 42-story Gothic revival centerpiece, the Cathedral of Learning. 
@@ -152,6 +152,7 @@ content:
           I have shifted my interest to applied math and started working on computational neuroscience as I wanted to contribute to a real-world problem. I have neurological diseases in my family which gave me the motivation to choose this path.
           
           I spent a lot of my free time as a committee member of administrative clubs like Graduate student organizations and Graduate and Professional Student Government taking on roles such as GPSG representative, chair of diversity board, and Summer research funding committee.
+      
       - layout: left
         title: Indian Institute of Science Education and Research Bhopal
         caption: May 2018 (GPA: 9.32 out of 10)
