@@ -187,19 +187,20 @@ content:
         title: BYMAT(Bringing Young Mathematicians Together), Madrid, Spain
         caption: Summer 2019
         description: | # this will include new lines to allow paragraphs
-          Presented paper in Arithmetic Dynamics funded by BYMAT. Visited Alfréd Rényi Institute of Mathematics; Budapest
+          Presented paper in Arithmetic Dynamics funded by BYMAT then visited Alfréd Rényi Institute of Mathematics; Budapest to attend seminars on algebraic geometry.
                 
-  - title: Education # Title for the section
+
+  - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Pittsburgh
-        caption: Sep 2020 - Apr 2025(exp)(GPA 3.9 out of 4)
-        sub_title: PhD, Mathematics
-        quote: >
-          Founded by Hugh Henry Brackenridge as Pittsburgh Academy in 1787, the University of Pittsburgh is one of the few universities and colleges established in the 18th century in the United States. It is the oldest continuously chartered institution 
-          of learning in the U.S. west of the Allegheny Mountains. Now the 132-acre Pittsburgh campus includes various historic buildings that are part of the Schenley Farms Historic District, most notably its 42-story Gothic revival centerpiece, the Cathedral of Learning. 
-        description: |
+        title: Gupta, Ashish; Dey Sarkar, Arnab. 
+        caption: 08.16.2017
+        sub_title: A Dichotomy for the Gelfand–Kirillov Dimensions of Simple Modules over Simple Differential Rings. DOI:10.1007/s10468-017-9728-6
+        description: | # this will include new lines to allow paragraphs
+          In this paper we show a dichotomy for the Gelfand–Kirillov dimension of simple modules over certain simple rings of differential operators. We thus answer a question of J. C. McConnell in Representations of solvable Lie algebras
+                
+
      
   - title: A Little More About Me
     layout: text
