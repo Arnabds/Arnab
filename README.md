@@ -2,6 +2,11 @@
 
 I'm Arnab, a math grad student at the University of Pittsburgh, researching computational neuroscience with Dr. Bard Ermentrout. I specialized in pure mathematics during my MSc at IISER Bhopal, focusing on Algebra and Number Theory. Currently, I'm diving into data science and machine learning at CMU with Dr. Robert Kass. With experience teaching at several institutions, I've honed my teamwork and leadership skills. I pride myself on patiently teaching calculus to students and expertly deboning Bengali fish dishes.
 
+## Languages
+- Bengali(Native)
+- Hindi(Fluent)
+- English(Fluent)
+
 ## Education
 - PhD, Mathematics | University of Pittsburgh (Sep 2020--Apr 2025(exp)) (GPA: 3.9 out of 4)					       		
 - M.Sc, Mathematics	| Indian Institute of Science Education and Research Bhopal (May 2018)	 			        		
@@ -42,8 +47,16 @@ We are dealing with the population model and spiking model which are related by 
 
 # Data Scientist
 
-#### Technical Skills: Python, SQL, MATLAB, Latex, XPPAUT
+#### Technical Skills: Python, Latex, XPPAUT, SQL, Markdown, MATLAB, Microsoft Office
 
+## Graduate Coursework
+- Overview of Statistical Learning and Modeling, CMU, Grade A
+- Data Science in Python, UPitt, Grade A+
+- Applied Data-Driven Methods, UPitt, Grade A+
+- Algebra 1, 2, UPitt, Grade: A+
+- Algebraic Geometry, Topology, UPitt, Grade A
+- Algebraic and Analytic Number Theory, IISER, Grade A
+- Modular forms, IISER, Grade A
 
 ## Talks & Lectures
 - BYMAT: Madrid; Spain, Presented paper in Arithmetic Dynamics funded by BYMAT. Visited Alfréd Rényi Institute of Mathematics; Budapest Summer 2019
@@ -62,11 +75,26 @@ We are dealing with the population model and spiking model which are related by 
             Learning process from my side about bigger graduate student organizations. Chaired the diversity board and worked in the committee of                  summer research funding.
 - GPSG representative(ongoing)
   2021-2024
-            Elected in 03.2023. Being on the executive board, was on the selection board for the ASGSO summer research grant, and had meetings with                the Graduate deans about the betterment of graduate student life like salary raise, health insurance benefits, etc.}\\
-     
+            Elected in 03.2023. Being on the executive board, was on the selection board for the ASGSO summer research grant, and had meetings with                the Graduate deans about the betterment of graduate student life like salary raise, health insurance benefits, etc.
+
+## Social work
+- In my undergrad, completed 30 hours of environment cleaning and 60 hours in rural child education. A group of people actively participated in cleaning our local streets and traveled inter-district teaching village kids who were below the poverty level 
+- In my undergrad, served 50 hours of cleaning the college surroundings and planted 150 trees.
+- At IISER, participated in teaching Bhauri village students. From Cheenta, participated in teaching kids in Sunderbans in India.
+ 
 
 ## Publications
 1. Gupta, Ashish; Dey Sarkar, Arnab; A Dichotomy for the Gelfand–Kirillov Dimensions of Simple Modules over Simple Differential Rings(08.16.2017). DOI:10.1007/s10468-017-9728-6
 2. 
+     
+## A Little More About Me
+Alongside my research interests, some of my other interests and hobbies are:
+- story book reading(Reading 'Atomic habits' now)
+- Gaming, Love to play Call of Duty mobile
+- Gym, trying head stand now a days
+- Cooking, I rate myself a pro in Bengali dishes. Hope to open a restaurant post-retirement.
+     
+
+
 
 - [Data Science Blog](https://medium.com/@shawhin)
