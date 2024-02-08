@@ -176,7 +176,8 @@ content:
       - GSR by UPitt, Was funded by my advisor after clearing my comprehensive exam in my Ph.D.   
 
   - title: Technical Skills
-    description: Python, SQL, MATLAB, Latex, XPPAUT
+    description: 
+      Python, SQL, MATLAB, Latex, XPPAUT
 
      
   - title: A Little More About Me
