@@ -1,14 +1,21 @@
-# About Me
+## About Me
 
 I'm Arnab, a math grad student at the University of Pittsburgh, researching computational neuroscience with Dr. Bard Ermentrout. I specialized in pure mathematics during my MSc at IISER Bhopal, focusing on Algebra and Number Theory. Currently, I'm diving into data science and machine learning at CMU with Dr. Robert Kass. With experience teaching at several institutions, I've honed my teamwork and leadership skills. I pride myself on patiently teaching calculus to students and expertly deboning Bengali fish dishes.
 
 ## Education
-PhD in Mathematics}{University of Pittsburgh}{Sep 2020--Apr 2025(exp)}{Pittsburgh, PA,USA}
-GPA: 3.9 out of 4(ongoing)
+- PhD, Mathematics | University of Pittsburgh (Sep 2020--Apr 2025(exp)) (GPA: 3.9 out of 4)					       		
+- M.Sc, Mathematics	| Indian Institute of Science Education and Research Bhopal (May 2018)	 			        		
 
 ## Work Experience
-- Teaching Assistant at University of Pittsburgh}{Sep 2020 -- Apr 2025}{Pittsburgh, USA}
-- Teacher at Cheenta Ganit Kendra, May 2017 -- Aug 2018, Kolkata, India
+**Teaching Assistant at University of Pittsburgh**
+- Taught complete courses like college algebra, precalculus, and calculus 1 and 2 with sole responsibility.
+- Responsible for teaching, covering recitation, holding office hours, and grading.
+- Graded advanced undergraduate courses like Vector calculus linear algebra, ODE, PDE, and Discrete mathematics.
+            
+**Teacher at Cheenta Ganit Kendra(May 2017 -- Aug 2018)Kolkata, India**
+- Taught olympiad level courses to high school students
+- Served as admin of college math group.
+ 
 
 
 ## Projects:
@@ -19,19 +26,9 @@ It was a poster presentation in a group and it was my applied first project. I d
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- PhD, Mathematics}{University of Pittsburgh}{Sep 2020--Apr 2025(exp)}{Pittsburgh, PA,USA} GPA: 3.9 out of 4(ongoing)						       		
-- M.Sc, Mathematics	| Indian Institute of Science Education and Research (May 2018)	 			        		
-- B.Sc, Mathematics | St (_May 2017_)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
