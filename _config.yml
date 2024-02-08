@@ -205,11 +205,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Alongside my research interests, some of my other interests and hobbies are:
+      - story book reading(Reading 'Atomic habits' now)
+      - Gaming, Love to play Call of Duty mobile
+      - Gym, trying head stand now a days
+      - Cooking, I rate myself a pro in Bengali dishes. Hope to open a restaurant post-retirement.
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
