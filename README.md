@@ -19,51 +19,54 @@ I'm Arnab, a math grad student at the University of Pittsburgh, researching comp
 
 
 ## Projects:
-* Can median house value be predicted based on population characteristics? 
+### Can median house value be predicted based on population characteristics?
+[Poster Publication]([https://www.mdpi.com/1424-8220/22/8/3048](https://www.stat.cmu.edu/capstoneresearch/fall2022/600files/poster4.pdf))
+
 It was a poster presentation in a group and it was my applied first project. I did the data cleaning and visualization using tidyverse, Dplyr, and GGPlot hist and Corrplot. We tried to visualize the data to get an idea of how the cost of a house(dependent variable) depends on other factors e.g. no of bedrooms, the population of the area, vacant units, etc. Motivated from here, I am trying to write a project on California house prices with some predictive modeling.
-  
+![Results](/assets/img/eeg_band_discovery.jpeg)
+
+### Predictive Maintenance: FPolisolution
+[Project directory]([https://www.mdpi.com/1424-8220/22/11/4240](https://github.com/Arnabds/FPoliSolutions-Predictive-Maintenance))
+
+This project was all about predicting when a machine is going to <mark>fail</mark> from the variable inputs. The main model we used here is logistic regression and we performed SVC at the end. In the general file I have given a general introduction, performed EDA, cluster analysis, introduced different models, analyzed their performance, and made predictions then as a Bonus we touched SVC and Neural Networks briefly.
+
+![FPolisolution](/assets/img/bike_study.jpeg)
+
+### My ongoing Ph.D. research project
+
+
+We are dealing with the population model and spiking model which are related by theta transformation and that is why the model is called by the name as theta model. We have shown the transformation calculation in particular. Then we wanted to find out a particular impulse through which we can jump between higher and lower oscillations. The challenge was that we were dealing with a large population of neurons and that is why we had to start with the case study and bifurcation diagram. We got some ideas and I managed to find good parameters so that the neurons behave as we wanted in 9D then we extended the case to the population of neurons and the system responded correctly. Now we were trying to summarise the result. Theta neuron model has application in visual cortex and also in Parkinson's disease as we noticed delayed beta oscillation in Parkinson which can be studied using theta model.
+
+![thetamodel](/assets/img/.jpeg)
+
+
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, MATLAB, Latex, XPPAUT
 
-
-
-
-
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- BYMAT: Madrid; Spain, Presented paper in Arithmetic Dynamics funded by BYMAT. Visited Alfréd Rényi Institute of Mathematics; Budapest Summer 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## Awards and Scholarships
+- National Board of Higher Mathematics, MSc scholarship, Awarded 72k inr.
+- National Eligibility Test (AI rank 83), MSc was supported by CSIR with 25k inr per month.
+- Awarded Pi Mu Epsilon, National Honorary Mathematics Society.
+- GSR by UPitt, Was funded by my advisor after clearing my comprehensive exam in my Ph.D.
+
+## Admin work
+- Executive board member of MathGSO
+2021-2024
+            Worked for the good of grad students in the math department, helped the professors in a graduate open house to orientation, arranged                   social gatherings, released departmental statements for sensitive  issues, had meetings with the graduate chair about students' summer employment, etc.
+- Council member of Arts and Science Graduate Student Organization
+            Learning process from my side about bigger graduate student organizations. Chaired the diversity board and worked in the committee of                  summer research funding.
+- GPSG representative(ongoing)
+  2021-2024
+            Elected in 03.2023. Being on the executive board, was on the selection board for the ASGSO summer research grant, and had meetings with                the Graduate deans about the betterment of graduate student life like salary raise, health insurance benefits, etc.}\\
+     
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Gupta, Ashish; Dey Sarkar, Arnab; A Dichotomy for the Gelfand–Kirillov Dimensions of Simple Modules over Simple Differential Rings(08.16.2017). DOI:10.1007/s10468-017-9728-6
+2. 
 
 - [Data Science Blog](https://medium.com/@shawhin)
