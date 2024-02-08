@@ -188,7 +188,9 @@ content:
   - title: Languages
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Bengali(Native), Hindi(Fluent), English(Fluent)
+      - Bengali(Native)
+      - Hindi(Fluent)
+      - English(Fluent)
 
 
   - title: Conference talks # Title for the section
