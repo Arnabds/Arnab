@@ -181,14 +181,7 @@ content:
     description: Python, SQL, MATLAB, Latex, XPPAUT
 
           
-  - title: Conference talks # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: BYMAT Madrid, Spain
-        caption: Summer 2019
-         description: | # this will include new lines to allow paragraphs
-          Presented paper in Arithmetic Dynamics funded by BYMAT. Visited Alfréd Rényi Institute of Mathematics; Budapest
+
           
      
   - title: A Little More About Me
