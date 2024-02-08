@@ -218,8 +218,15 @@ content:
         title: GPSG representative(ongoing)
         caption: 2021-2024
         description: | # this will include new lines to allow paragraphs
-          Elected in 03.2023. Being on the executive board, was on the selection board for the ASGSO summer research grant, and had meetings with the Graduate deans about the betterment of graduate student life like salary raise, health insurance benefits, etc.}\\
-     
+          Elected in 03.2023. Being on the executive board, was on the selection board for the ASGSO summer research grant, and had meetings with the Graduate deans about the betterment of graduate student life like salary raise, health insurance benefits, etc.
+
+  - title: Social work
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - In my undergrad, completed 30 hours of environment cleaning and 60 hours in rural child education. A group of people actively participated in cleaning our local streets and traveled inter-district teaching village kids who were below the poverty level 
+      - In my undergrad, served 50 hours of cleaning the college surrounding and planted 150 trees.
+      - At IISER, participated in teaching Bhauri village students. From Cheenta, participated in teaching kids in Sunderbans in India.
+ 
 
      
   - title: A Little More About Me
