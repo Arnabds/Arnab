@@ -143,10 +143,19 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
+        title: University of Pittsburgh
+        caption: Sep 2020--Apr 2025(exp)(GPA: 3.9 out of 4)
+        sub_title: PhD, Mathematics
+          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          I have studied pure math in these time duration focusing on algebra and analysis. I got really interested on numbers. All of my reading projects were on algebraic and analytic number theory, modular forms and elliptic curves. I met some really
+          good teachers who were pure mathematicians.
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: left
+        title: Indian Institute of Science Education and Research Bhopal
+        caption: May 2018 (GPA: 3.9 out of 4)
+        sub_title: M.Sc, Mathematics
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
           During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
