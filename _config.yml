@@ -199,7 +199,27 @@ content:
         sub_title: A Dichotomy for the Gelfand–Kirillov Dimensions of Simple Modules over Simple Differential Rings. DOI:10.1007/s10468-017-9728-6
         description: | # this will include new lines to allow paragraphs
           In this paper we show a dichotomy for the Gelfand–Kirillov dimension of simple modules over certain simple rings of differential operators. We thus answer a question of J. C. McConnell in Representations of solvable Lie algebras
-                
+
+  - title: Admin work # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Executive board member of MathGSO
+        caption: 2021-2024
+        description: | # this will include new lines to allow paragraphs
+          Worked for the good of grad students in the math department, helped the professors in a graduate open house to orientation, arranged social gatherings, released departmental statements for sensitive  issues, had meetings with the
+          graduate chair about students' summer employment, etc.
+      - layout: left
+        title: Council member of Arts and Science Graduate Student Organization
+        caption: 2021-2024
+        description: | # this will include new lines to allow paragraphs
+          Learning process from my side about bigger graduate student organizations. Chaired the diversity board and worked in the committee of summer research funding.
+      - layout: left
+        title: GPSG representative(ongoing)
+        caption: 2021-2024
+        description: | # this will include new lines to allow paragraphs
+          Elected in 03.2023. Being on the executive board, was on the selection board for the ASGSO summer research grant, and had meetings with the Graduate deans about the betterment of graduate student life like salary raise, health insurance benefits, etc.}\\
+     
 
      
   - title: A Little More About Me
