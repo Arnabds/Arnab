@@ -286,7 +286,7 @@ content:
       - Cooking, I rate myself a pro in Bengali dishes. Hope to open a restaurant post-retirement.
 
       Look at this cool image  
-      ![Erie](/Arnabds.github.io/images/erie.jpg)
+      ![Erie](/Arnabds.github.io/images/erie.jpg "Erie")
       
 # Footer
 footer_show_references: true
