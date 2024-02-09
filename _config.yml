@@ -76,6 +76,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           It was my first project and many data science staff went over my head but I started getting interested.
+          Skill set used R
         description: | # this will include new lines to allow paragraphs
           It was a poster presentation in a group and it was my first applied project. I did the data cleaning and visualization using tidyverse, Dplyr, and GGPlot hist and Corrplot. We tried to visualize the data to get an idea of how the cost of a house(dependent variable) depends on other factors e.g. 
           no of bedrooms, the population of the area, vacant units, etc. Motivated from here, I am trying to write a project on California house prices with some predictive modeling.
@@ -92,6 +93,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           I was really satisfied when I executed this single-handedly (although I used my both hand!)
+          Skill set used Python
         description: | # this will include new lines to allow paragraphs
           This project was all about predicting when a machine is going to <mark>fail</mark> from the variable inputs. The main model we used here is logistic regression and we performed SVC at the end. In the general file I have given general introduction, performed EDA, cluster analysis, introduced different 
           models, analyzed their performance, and made predictions then as a Bonus we touched SVC and Neural Networks briefly.
@@ -108,11 +110,29 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
           My ongoing Ph.D. research project
+          Skill set used XPPAUT, MATLAB, Python
         description: | # this will include new lines to allow paragraphs
           We are dealing with the population model and spiking model which are related by theta transformation and that is why the model is called by the name as theta model. We have shown the transformation calculation in particular. Then we wanted to find out a particular impulse through which we can jump between 
           higher and lower oscillations. The challenge was that we were dealing with a large population of neurons and that is why we had to start with the case study and bifurcation diagram. We got some ideas and I managed to find good parameters so that the neurons behave as we wanted in 9D then we extended the 
           case to the population of neurons and the system responded correctly. Now we were trying to summarise the result. Theta neuron model has application in visual cortex and also in Parkinson's disease as we noticed delayed beta oscillation in Parkinson which can be studied using theta model.
 
+      - layout: top-middle
+        title: K-Means
+        link: https://arnabds.github.io/K-Means/
+        # link_text: Project Website
+        additional_links:
+          - title: Smiley Face Clustering
+            icon: fab fa-github
+            url: https://github.com/Arnabds/K-Means/edit/main/README.md
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          An explanatory page of KMeans.
+          Skill set used XPPAUT, MATLAB, Python
+        description: | # this will include new lines to allow paragraphs
+          Shown KMeans with a smiley example and explained its theory.
+          
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
