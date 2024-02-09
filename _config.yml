@@ -285,7 +285,9 @@ content:
       - Gym, trying head stand now a days
       - Cooking, I rate myself a pro in Bengali dishes. Hope to open a restaurant post-retirement.
       - Look at this cool image  
-      - ![Erie](Arnabds.github.io/images/erie.jpg "Erie")
+      Look at this cool image  
+      ![Trees](/Arnabds.github.io/images/landscape-trees.jpg "Trees")
+
       
 # Footer
 footer_show_references: true
