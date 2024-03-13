@@ -98,7 +98,7 @@ content:
           This project was all about predicting when a machine is going to <mark>fail</mark> from the variable inputs. The main model we used here is logistic regression and we performed SVC at the end. In the general file I have given general introduction, performed EDA, cluster analysis, introduced different 
           models, analyzed their performance, and made predictions then as a Bonus we touched SVC and Neural Networks briefly.
       - layout: top-middle
-        title: Change in neuronal waves with synaptic input of excitatory, inhibitory neurons and somatostatin
+        title: Bistability analysis of excitatory, inhibitory and somatostatin neuron network:
         link: 
         # link_text: Project Website
         additional_links:
