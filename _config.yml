@@ -99,12 +99,12 @@ content:
           models, analyzed their performance, and made predictions then as a Bonus we touched SVC and Neural Networks briefly.
       - layout: top-middle
         title: Bistability analysis of excitatory, inhibitory and somatostatin neuron network:
-        link: 
+        link: https://arnabds.github.io/Computational-Neuroscience-Research-Project-1/
         # link_text: Project Website
         additional_links:
-          - title: 
+          - title: Research project
             icon: fab fa-github
-            url: 
+            url: https://github.com/Arnabds/Computational-Neuroscience-Research-Project-1
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
