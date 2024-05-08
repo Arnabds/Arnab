@@ -82,12 +82,12 @@ content:
           no of bedrooms, the population of the area, vacant units, etc. Motivated from here, I am trying to write a project on California house prices with some predictive modeling.
       - layout: top-middle
         title: Predictive Maintenance
-        link: https://github.com/Arnabds/FPoliSolutions-Predictive-Maintenance
+        link: https://arnabds.github.io/FPoliSolutions-Predictive-Maintenance/
         # link_text: Project Website
         additional_links:
           - title:  Arnabds/FPoliSolutions-Predictive-Maintenance
             icon: fab fa-github
-            url: https://arnabds.github.io/FPoliSolutions-Predictive-Maintenance/
+            url: https://github.com/Arnabds/FPoliSolutions-Predictive-Maintenance
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -104,7 +104,7 @@ content:
         additional_links:
           - title: Research project
             icon: fab fa-github
-            url: https://arnabds.github.io/Computational-Neuroscience-Research-Project-1/
+            url: https://github.com/Arnabds/Computational-Neuroscience-Research-Project-1
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
