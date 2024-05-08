@@ -87,7 +87,7 @@ content:
         additional_links:
           - title:  Arnabds/FPoliSolutions-Predictive-Maintenance
             icon: fab fa-github
-            url: https://github.com/Arnabds/FPoliSolutions-Predictive-Maintenance
+            url: https://arnabds.github.io/FPoliSolutions-Predictive-Maintenance/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
@@ -104,7 +104,7 @@ content:
         additional_links:
           - title: Research project
             icon: fab fa-github
-            url: https://github.com/Arnabds/Computational-Neuroscience-Research-Project-1
+            url: https://arnabds.github.io/Computational-Neuroscience-Research-Project-1/
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
