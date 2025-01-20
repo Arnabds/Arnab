@@ -101,15 +101,15 @@ content:
         title: Equity-vs-commodity
         link: https://github.com/Arnabds/equity-vs-commodity
         # link_text: Project Website
-        # additional_links:
-        #   - title:  Arnabds/FPoliSolutions-Predictive-Maintenance
-        #     icon: fab fa-github
-        #     url: https://github.com/Arnabds/FPoliSolutions-Predictive-Maintenance
+        additional_links:
+          - title:  Arnabds/FPoliSolutions-Predictive-Maintenance
+            icon: fab fa-github
+            url: https://github.com/Arnabds/equity-vs-commodity/tree/main/Arnab's%20work
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-        #   I was really satisfied when I executed this single-handedly (although I used my both hand!)
+        quote: >
+          we also invested in stock market with fake money and earned revenue.
           Skill set used Python
         description: | # this will include new lines to allow paragraphs
           The stock market is complex - volatile, multifactorial, and often lacking actionable data. Our mission was to address this challenge through rigorous analysis, innovative feature engineering, and robust forecasting techniques. Our study is centered on technical indicators rather than developing an algorithmic trading strategy. Our objective is to evaluate whether machine learning models can predict future stock price movements. While our approach does not directly aim to maximize trading profits, it offers valuable insights that traders and analysts can incorporate into broader strategic decisions.
