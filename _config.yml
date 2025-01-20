@@ -98,6 +98,22 @@ content:
           This project was all about predicting when a machine is going to <mark>fail</mark> from the variable inputs. The main model we used here is logistic regression and we performed SVC at the end. In the general file I have given general introduction, performed EDA, cluster analysis, introduced different 
           models, analyzed their performance, and made predictions then as a Bonus we touched SVC and Neural Networks briefly.
       - layout: top-middle
+        title: Equity-vs-commodity
+        link: https://github.com/Arnabds/equity-vs-commodity
+        # link_text: Project Website
+        # additional_links:
+        #   - title:  Arnabds/FPoliSolutions-Predictive-Maintenance
+        #     icon: fab fa-github
+        #     url: https://github.com/Arnabds/FPoliSolutions-Predictive-Maintenance
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   I was really satisfied when I executed this single-handedly (although I used my both hand!)
+          Skill set used Python
+        description: | # this will include new lines to allow paragraphs
+          The stock market is complex - volatile, multifactorial, and often lacking actionable data. Our mission was to address this challenge through rigorous analysis, innovative feature engineering, and robust forecasting techniques. Our study is centered on technical indicators rather than developing an algorithmic trading strategy. Our objective is to evaluate whether machine learning models can predict future stock price movements. While our approach does not directly aim to maximize trading profits, it offers valuable insights that traders and analysts can incorporate into broader strategic decisions.
+      - layout: top-middle
         title: Bistability analysis of excitatory, inhibitory and somatostatin neuron network
         link: https://arnabds.github.io/Computational-Neuroscience-Research-Project-1/
         # link_text: Project Website
@@ -147,7 +163,7 @@ content:
         description: | # this will include new lines to allow paragraphs
            - Taught complete courses like college algebra, precalculus, and calculus 1 and 2 with sole responsibility.
            - Responsible for teaching, covering recitation, holding office hours, and grading.
-           - Graded advanced undergraduate courses like Vector calculus linear algebra, ODE, PDE, and Discrete mathematics.
+           - Graded advanced undergraduate courses like Numerical Analysis, Vector calculus linear algebra, ODE, PDE, and Discrete mathematics.
 
       - layout: left
         title: Teacher and admin at Cheenta Ganit Kendra
